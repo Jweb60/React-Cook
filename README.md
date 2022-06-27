@@ -1,1 +1,1 @@
-Site en React de recette de cuisine en anglais
+Site en React de recette de cuisine (en anglais)
